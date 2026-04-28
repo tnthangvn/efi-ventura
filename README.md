@@ -1,5 +1,9 @@
-### INFO ###
-### Comet lake ###
+### INFO
+
+present: tahoe 26.4.1
+
+### Comet lake
+
 ```
 Main ASRock H510M-HVS
 RAM RAM 32GB
